@@ -1,0 +1,38 @@
+[
+   {
+      id:1
+      , name:"초록색 드레스"
+      , price:"100,000"
+      , img:"/img/dress001.jpeg"
+    }
+    , {
+      id:2
+      , name:"핑크색 드레스"
+      , price:"200,000"
+      , img:"/img/dress002.jpeg"
+    }
+    , {
+      id:3
+      , name:"하얀색 드레스"
+      , price:"200,000"
+      , img:"/img/dress003.jpeg"
+    }
+    , {
+      id:4
+      , name:"베이지색 드레스"
+      , price:"200,000"
+      , img:"/img/dress004.jpeg"
+    }
+    , {
+      id:5
+      , name:"하늘색 드레스"
+      , price:"200,000"
+      , img:"/img/dress005.jpeg"
+    }
+    , {
+      id:6
+      , name:"검은색 드레스"
+      , price:"200,000"
+      , img:"/img/dress006.jpeg"
+    }
+]
