@@ -1,0 +1,20 @@
+[
+   {
+      "id":4
+      , "name":"베이지색 드레스"
+      , "price":"200,000"
+      , "img":"/img/dress004.jpeg"
+    }
+    , {
+      "id":5
+      , "name":"하늘색 드레스"
+      , "price":"200,000"
+      , "img":"/img/dress005.jpeg"
+    }
+    , {
+      "id":6
+      , "name":"검은색 드레스"
+      , "price":"200,000"
+      , "img":"/img/dress006.jpeg"
+    }
+]
